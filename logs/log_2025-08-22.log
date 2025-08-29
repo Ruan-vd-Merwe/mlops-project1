@@ -1,0 +1,64 @@
+2025-08-22 09:44:21,906 - INFO - Succesfully read YAML file
+2025-08-22 09:46:34,680 - INFO - Succesfully read YAML file
+2025-08-22 09:46:34,681 - INFO - Data Ingestion started with my_bucket_mlops_course and file is  hotel_reservations.csv
+2025-08-22 09:46:34,681 - INFO - Starting data ingestion process
+2025-08-22 09:46:46,771 - ERROR - Error while downloading the csv file
+2025-08-22 09:46:46,771 - INFO - Data ingestion completed
+2025-08-22 09:48:12,792 - INFO - Succesfully read YAML file
+2025-08-22 09:48:12,793 - INFO - Data Ingestion started with my_bucket_mlops_course and file is  hotel_reservations.csv
+2025-08-22 09:48:12,796 - INFO - Starting data ingestion process
+2025-08-22 09:48:24,891 - ERROR - Error while downloading the csv file
+2025-08-22 09:48:24,891 - ERROR - CustomException : Error in C:\Users\RuanvanderMerwe\Documents\Code\Training\MLOPS_PROJECT_1\src\data_ingestion.py , line 25 : Failed to downlaod csv file 
+2025-08-22 09:48:24,891 - INFO - Data ingestion completed
+2025-08-22 10:10:07,873 - INFO - Succesfully read the YAML file
+2025-08-22 10:10:07,873 - INFO - Data Ingestion started with my_bucket_mlops_course and file is  hotel_reservations.csv
+2025-08-22 10:10:07,873 - INFO - Starting data ingestion process
+2025-08-22 10:10:19,739 - ERROR - Error while downloading the csv file
+2025-08-22 10:10:19,739 - ERROR - CustomException : Error in C:\Users\RuanvanderMerwe\Documents\Code\Training\MLOPS_PROJECT_1\src\data_ingestion.py , line 25 : Failed to downlaod csv file 
+2025-08-22 10:10:19,739 - INFO - Data ingestion completed
+2025-08-22 10:16:31,074 - INFO - Succesfully read the YAML file
+2025-08-22 10:16:31,075 - INFO - Data Ingestion started with my_bucket_mlops_course and file is  hotel_reservations.csv
+2025-08-22 10:16:31,075 - INFO - Starting data ingestion process
+2025-08-22 10:16:42,929 - ERROR - Error while downloading the csv file
+2025-08-22 10:16:42,929 - ERROR - CustomException : Error in C:\Users\RuanvanderMerwe\Documents\Code\Training\MLOPS_PROJECT_1\src\data_ingestion.py , line 25 : Failed to downlaod csv file 
+2025-08-22 10:16:42,929 - INFO - Data ingestion completed
+2025-08-22 10:21:04,083 - INFO - Succesfully read the YAML file
+2025-08-22 10:21:04,084 - INFO - Data Ingestion started with my_bucket_mlops_course and file is  hotel_reservations.csv
+2025-08-22 10:21:04,084 - INFO - Starting data ingestion process
+2025-08-22 10:21:16,125 - ERROR - Error while downloading the csv file
+2025-08-22 10:21:16,125 - ERROR - CustomException : Error in C:\Users\RuanvanderMerwe\Documents\Code\Training\MLOPS_PROJECT_1\src\data_ingestion.py , line 25 : Failed to downlaod csv file 
+2025-08-22 10:21:16,125 - INFO - Data ingestion completed
+2025-08-22 10:37:18,115 - INFO - Succesfully read the YAML file
+2025-08-22 10:37:18,115 - INFO - Data Ingestion started with my_bucket_mlops_course and file is  hotel_reservations.csv
+2025-08-22 10:37:18,115 - INFO - Starting data ingestion process
+2025-08-22 10:37:30,012 - ERROR - Error while downloading the csv file
+2025-08-22 10:37:30,012 - ERROR - CustomException : Error in C:\Users\RuanvanderMerwe\Documents\Code\Training\MLOPS_PROJECT_1\src\data_ingestion.py , line 25 : Failed to downlaod csv file 
+2025-08-22 10:37:30,012 - INFO - Data ingestion completed
+2025-08-22 11:01:34,055 - INFO - Succesfully read the YAML file
+2025-08-22 11:01:34,056 - INFO - Data Ingestion started with my_bucket_mlops_course and file is  hotel_reservations.csv
+2025-08-22 11:01:34,056 - INFO - Starting data ingestion process
+2025-08-22 11:01:45,997 - ERROR - Error while downloading the csv file
+2025-08-22 11:01:45,997 - ERROR - CustomException : Error in C:\Users\RuanvanderMerwe\Documents\Code\Training\MLOPS_PROJECT_1\src\data_ingestion.py , line 25 : Failed to downlaod csv file 
+2025-08-22 11:01:45,997 - INFO - Data ingestion completed
+2025-08-22 11:51:18,108 - INFO - Succesfully read the YAML file
+2025-08-22 11:51:18,108 - INFO - Data Ingestion started with my_bucket_mlops_course and file is  hotel_reservations.csv
+2025-08-22 11:51:18,109 - INFO - Starting data ingestion process
+2025-08-22 11:51:30,052 - ERROR - Error while downloading the csv file
+2025-08-22 11:51:30,052 - ERROR - CustomException : Error in C:\Users\RuanvanderMerwe\Documents\Code\Training\MLOPS_PROJECT_1\src\data_ingestion.py , line 25 : Failed to downlaod csv file 
+2025-08-22 11:51:30,052 - INFO - Data ingestion completed
+2025-08-22 11:53:10,602 - INFO - Succesfully read the YAML file
+2025-08-22 11:53:10,602 - INFO - Data Ingestion started with my_bucket_mlops_course and file is  hotel_reservations.csv
+2025-08-22 11:53:10,603 - INFO - Starting data ingestion process
+2025-08-22 11:53:22,703 - ERROR - Error while downloading the csv file
+2025-08-22 11:53:22,703 - INFO - Data ingestion completed
+2025-08-22 11:54:44,552 - INFO - Succesfully read the YAML file
+2025-08-22 11:54:44,552 - INFO - Data Ingestion started with my_bucket_mlops_course and file is  hotel_reservations.csv
+2025-08-22 11:54:44,552 - INFO - Starting data ingestion process
+2025-08-22 11:54:56,662 - ERROR - Error while downloading the csv file
+2025-08-22 11:54:56,662 - INFO - Data ingestion completed
+2025-08-22 11:59:14,309 - INFO - Succesfully read the YAML file
+2025-08-22 11:59:14,309 - INFO - Data Ingestion started with my_bucket_mlops_course and file is  hotel_reservations.csv
+2025-08-22 11:59:14,309 - INFO - Starting data ingestion process
+2025-08-22 11:59:26,290 - ERROR - Error while downloading the csv file
+2025-08-22 11:59:26,290 - ERROR - CustomException : Error in C:\Users\RuanvanderMerwe\Documents\Code\Training\MLOPS_PROJECT_1\src\data_ingestion.py , line 25 : Failed to downlaod csv file 
+2025-08-22 11:59:26,290 - INFO - Data ingestion completed
